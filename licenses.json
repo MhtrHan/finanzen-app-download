@@ -1,4 +1,4 @@
 {
-  "payload": "{\"v\":1,\"issued\":\"2026-10-22T10:12:33.333762Z\",\"grace\":3,\"warn\":30,\"entries\":[{\"id\":\"2f345b488f1c90ec36199ab26af070e3d1228d77e29853a75b70531a5066fecd\",\"exp\":\"2028-10-19\"},{\"id\":\"d4dac4e9dd81f2f9a91d0d77c31e2c5508cb683446b5a69438599d2cb20c8a29\",\"exp\":\"2028-10-22\",\"x\":true}]}",
-  "sig": "RMtPxc21/uN3fUAoys3dCK0TbF7YRYvZYLyF8ie+37lquQIAivhGM9WO/Rn3Rwr3Z8b0u0suGpke231n4fiTDA=="
+  "payload": "{\"v\":1,\"issued\":\"2026-11-07T18:12:16.738554Z\",\"grace\":3,\"warn\":30,\"entries\":[{\"id\":\"2f345b488f1c90ec36199ab26af070e3d1228d77e29853a75b70531a5066fecd\",\"exp\":\"2028-10-19\"},{\"id\":\"c1abedded27d595c4dde7f38c7d21052966df1eeba470f06c32eb998c1328f2d\",\"exp\":\"2028-11-07\",\"x\":true},{\"id\":\"d4dac4e9dd81f2f9a91d0d77c31e2c5508cb683446b5a69438599d2cb20c8a29\",\"exp\":\"2028-10-22\",\"x\":true}]}",
+  "sig": "mO1qzBWbP0G4UMjoMzpngE3TJkwLGIvDHtOJJjAysD5L9Q6FPtyfJTfRdY5/8NDDXNrdvDX/mDzBHbcU4HkbCw=="
 }
