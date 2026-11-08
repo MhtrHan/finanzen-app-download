@@ -1,12 +1,13 @@
 {
-  "version": "0.20.0",
+  "version": "0.21.0",
   "date": "2026-11-08",
   "notes": [
-    "Gehalt: die App legt es jeden Monat als „offen“ an (Zahlungszeitraum je Tätigkeit, z. B. 27.–3.) – du bestätigst nur noch mit „Erhalten“",
-    "Stundenlohn/-honorar: beim Bestätigen Stunden, Honorar ohne oder inkl. Fahrtkosten angeben – die Berechnung steht direkt im Dialog",
-    "Neue Tätigkeit Schritt für Schritt; bei Angestellten entfallen Rechnungsfelder wie Zahlungsziel, Gewerbe oder Zahlungserinnerung",
-    "Einrichtungshilfe: persönliche Angaben, „Wofür nutzt du die App?“ mit passenden Schritten, Fixkosten und Kontostand; Übersicht wird passend vorbelegt",
-    "Rundgang durch die Bereiche und Checkliste „Erste Schritte“ (unter Bedienanleitung neu startbar)",
-    "Bedienanleitung als Bildergeschichte"
+    "Allgemeine Arbeitsmittel lassen sich anteilig auf alle selbständigen Tätigkeiten oder alle Arbeitsverhältnisse aufteilen (je Ausgabe, als Voreinstellung der Kategorie oder per Knopf für alle nicht zugeordneten)",
+    "Steuer: klarer Hinweis, wenn Werbungskosten (z. B. Fahrtkosten) unter dem Arbeitnehmer-Pauschbetrag liegen",
+    "Absetzbar: zugeklappte Kategorien bleiben zugeklappt; „Rückgängig“-Hinweis verschwindet nach wenigen Sekunden bzw. beim Seitenwechsel",
+    "Neue Tätigkeit: bei Werkstudent, Minijob & Co. nur noch Gehalt oder Stundenlohn",
+    "Einrichtungshilfe: keine doppelte Frage nach den Bereichen mehr",
+    "Demo-Modus: „Beenden“ im Streifen oben funktioniert",
+    "Bedienanleitung mit neutralen Beispieldaten"
   ]
 }
