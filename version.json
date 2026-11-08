@@ -1,13 +1,12 @@
 {
-  "version": "0.18.0",
+  "version": "0.19.0",
   "date": "2026-11-08",
   "notes": [
-    "Einnahmen: Zahlungen am Monatsende stehen beim Folgemonat; Kacheln frei anpassbar, neue Kachel „Noch nicht abgerechnet – aus deinen Arbeitszeiten“",
-    "Ausgaben: Kategorien unter „Absetzbar“ auf- und zuklappbar, wiederkehrende Fahrten mit + und −",
-    "Fixkosten: eigene Bereiche, steuerlich absetzbar mit Anteilen (beruflich/Bildung) und Übernahme nach „Absetzbar“, „Betrag anpassen ab …“",
-    "Kontostand-Vorschau mit Pfeil (mehr/weniger als heute), gleich große Kacheln",
-    "Auswertung: Balkendiagramm „Verdienst je Tätigkeit“; Steuer: Ausgaben ohne Tätigkeit werden nicht mehr den Werbungskosten zugerechnet",
-    "Tätigkeiten: verständlichere Frage zur Arbeitszeit, Feiertage/Urlaub/Krankheit auch mit festem Wert oder Vorlage",
-    "Hinweis auf neue Versionen mit Aktualisieren direkt aus der App"
+    "Steuer nach Formularen: Anlage S/EÜR je Tätigkeit, Anlage N, Vorsorgeaufwand, Sonderausgaben (Ausbildung, Spenden), außergewöhnliche Belastungen",
+    "Ausgaben-Kategorien haben jetzt einen Steuerbereich (z. B. Studium, Krankenversicherung, Krankheitskosten) und bei beruflichen Kosten die Formularzeile",
+    "Neue Ausgabenarten: Homeoffice-Tage (6 € je Tag) und Verpflegungsmehraufwand (14 €/28 € je Tag)",
+    "Gehalt: optional die Werte der Lohnabrechnung eintragen – ergibt die Lohnsteuerbescheinigung für die Anlage N",
+    "Netto aus Brutto nach dem amtlichen Ablaufplan (Steuerklassen I–VI, Übergangsbereich, Werkstudenten, Einmalzahlungen)",
+    "Export: Steuerschätzung als Ausfüllhilfe mit allen Formularwerten"
   ]
 }
