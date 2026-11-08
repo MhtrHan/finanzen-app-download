@@ -1,12 +1,12 @@
 {
-  "version": "0.19.0",
+  "version": "0.20.0",
   "date": "2026-11-08",
   "notes": [
-    "Steuer nach Formularen: Anlage S/EÜR je Tätigkeit, Anlage N, Vorsorgeaufwand, Sonderausgaben (Ausbildung, Spenden), außergewöhnliche Belastungen",
-    "Ausgaben-Kategorien haben jetzt einen Steuerbereich (z. B. Studium, Krankenversicherung, Krankheitskosten) und bei beruflichen Kosten die Formularzeile",
-    "Neue Ausgabenarten: Homeoffice-Tage (6 € je Tag) und Verpflegungsmehraufwand (14 €/28 € je Tag)",
-    "Gehalt: optional die Werte der Lohnabrechnung eintragen – ergibt die Lohnsteuerbescheinigung für die Anlage N",
-    "Netto aus Brutto nach dem amtlichen Ablaufplan (Steuerklassen I–VI, Übergangsbereich, Werkstudenten, Einmalzahlungen)",
-    "Export: Steuerschätzung als Ausfüllhilfe mit allen Formularwerten"
+    "Gehalt: die App legt es jeden Monat als „offen“ an (Zahlungszeitraum je Tätigkeit, z. B. 27.–3.) – du bestätigst nur noch mit „Erhalten“",
+    "Stundenlohn/-honorar: beim Bestätigen Stunden, Honorar ohne oder inkl. Fahrtkosten angeben – die Berechnung steht direkt im Dialog",
+    "Neue Tätigkeit Schritt für Schritt; bei Angestellten entfallen Rechnungsfelder wie Zahlungsziel, Gewerbe oder Zahlungserinnerung",
+    "Einrichtungshilfe: persönliche Angaben, „Wofür nutzt du die App?“ mit passenden Schritten, Fixkosten und Kontostand; Übersicht wird passend vorbelegt",
+    "Rundgang durch die Bereiche und Checkliste „Erste Schritte“ (unter Bedienanleitung neu startbar)",
+    "Bedienanleitung als Bildergeschichte"
   ]
 }
