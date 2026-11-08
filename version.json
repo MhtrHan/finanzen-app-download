@@ -1,0 +1,13 @@
+{
+  "version": "0.18.0",
+  "date": "2026-11-08",
+  "notes": [
+    "Einnahmen: Zahlungen am Monatsende stehen beim Folgemonat; Kacheln frei anpassbar, neue Kachel „Noch nicht abgerechnet – aus deinen Arbeitszeiten“",
+    "Ausgaben: Kategorien unter „Absetzbar“ auf- und zuklappbar, wiederkehrende Fahrten mit + und −",
+    "Fixkosten: eigene Bereiche, steuerlich absetzbar mit Anteilen (beruflich/Bildung) und Übernahme nach „Absetzbar“, „Betrag anpassen ab …“",
+    "Kontostand-Vorschau mit Pfeil (mehr/weniger als heute), gleich große Kacheln",
+    "Auswertung: Balkendiagramm „Verdienst je Tätigkeit“; Steuer: Ausgaben ohne Tätigkeit werden nicht mehr den Werbungskosten zugerechnet",
+    "Tätigkeiten: verständlichere Frage zur Arbeitszeit, Feiertage/Urlaub/Krankheit auch mit festem Wert oder Vorlage",
+    "Hinweis auf neue Versionen mit Aktualisieren direkt aus der App"
+  ]
+}
