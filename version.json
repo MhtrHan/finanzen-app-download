@@ -1,13 +1,10 @@
 {
-  "version": "0.24.0",
+  "version": "0.25.0",
   "date": "2026-11-10",
   "notes": [
-    "Fahrtkosten je Tätigkeit: erstattete Fahrt- und Nebenkosten aus Rechnungen werden automatisch als tatsächliche Kosten angesetzt (abschaltbar); Fahrten ohne Erstattung (Entfernungspauschale) direkt in der Tätigkeit einstellbar",
-    "Steuer: Buchstaben der Blöcke passen sich an (wer nur angestellt ist, beginnt mit A)",
-    "Netto aus Brutto: einzelne Bestandteile im Dialog korrigierbar",
-    "Neue Tätigkeit: Urlaubsanspruch in Tagen oder Stunden, Soll-Stunden-Vorschlag aus Brutto ÷ Stundensatz, klarere Angaben zum Gehaltszeitraum (auch „schon im Vormonat“)",
-    "Einrichtungshilfe: Kontostand freiwillig; die Übersicht startet leer mit „Passende Kacheln vorschlagen“",
-    "Rundgang: Hervorhebung sitzt auch im Demo-Modus an der richtigen Stelle",
-    "Kacheln haben in der Ansicht genau die eingestellte Größe (zu viel Inhalt lässt sich in der Kachel scrollen)"
+    "Animationen neu: laufen jetzt durchgehend (Format-Fehler behoben, jede Animation wird automatisch Bild für Bild geprüft)",
+    "Am PC eigene Animationen in Windows-Ansicht, am Handy in Handy-Ansicht",
+    "Nach der Einrichtungshilfe startet die Bedienanleitung (überspringbar – danach der Hinweis, wo du sie wiederfindest), anschließend der Rundgang",
+    "Bedienanleitung: jeder Bereich hat einen Knopf „Animationen ansehen“, der direkt zu den passenden Animationen führt"
   ]
 }
