@@ -1,10 +1,9 @@
 {
-  "version": "0.25.0",
+  "version": "0.25.1",
   "date": "2026-11-10",
   "notes": [
-    "Animationen neu: laufen jetzt durchgehend (Format-Fehler behoben, jede Animation wird automatisch Bild für Bild geprüft)",
-    "Am PC eigene Animationen in Windows-Ansicht, am Handy in Handy-Ansicht",
-    "Nach der Einrichtungshilfe startet die Bedienanleitung (überspringbar – danach der Hinweis, wo du sie wiederfindest), anschließend der Rundgang",
-    "Bedienanleitung: jeder Bereich hat einen Knopf „Animationen ansehen“, der direkt zu den passenden Animationen führt"
+    "Bedienanleitung: alle Animationen neu – in voller Auflösung, flüssiger und ausschließlich mit erfundenen Musterdaten",
+    "„Abgleich und Sicherung“ zeigt jetzt den echten Ablauf",
+    "Text zur Steuerschätzung korrigiert (die Buchstaben richten sich nach deinen Tätigkeiten)"
   ]
 }
