@@ -1,9 +1,13 @@
 {
-  "version": "0.23.0",
+  "version": "0.24.0",
   "date": "2026-11-10",
   "notes": [
-    "Einrichtungshilfe macht die App startklar: je nach Zweck Pflichtangaben (z. B. Tätigkeit, Kategorien, Kontostand und Fixkosten, Fahrzeug), neue Schritte für Fahrzeug und Darlehen sowie eine Zusammenfassung „Das ist eingerichtet“",
-    "In jedem Schritt erklärt ein Kasten, was du tust und warum – mit kurzer Animation",
-    "Bedienanleitung neu: 23 Themen als kurze Animationen in Endlosschleife (mit erfundenen Musterdaten)"
+    "Fahrtkosten je Tätigkeit: erstattete Fahrt- und Nebenkosten aus Rechnungen werden automatisch als tatsächliche Kosten angesetzt (abschaltbar); Fahrten ohne Erstattung (Entfernungspauschale) direkt in der Tätigkeit einstellbar",
+    "Steuer: Buchstaben der Blöcke passen sich an (wer nur angestellt ist, beginnt mit A)",
+    "Netto aus Brutto: einzelne Bestandteile im Dialog korrigierbar",
+    "Neue Tätigkeit: Urlaubsanspruch in Tagen oder Stunden, Soll-Stunden-Vorschlag aus Brutto ÷ Stundensatz, klarere Angaben zum Gehaltszeitraum (auch „schon im Vormonat“)",
+    "Einrichtungshilfe: Kontostand freiwillig; die Übersicht startet leer mit „Passende Kacheln vorschlagen“",
+    "Rundgang: Hervorhebung sitzt auch im Demo-Modus an der richtigen Stelle",
+    "Kacheln haben in der Ansicht genau die eingestellte Größe (zu viel Inhalt lässt sich in der Kachel scrollen)"
   ]
 }
