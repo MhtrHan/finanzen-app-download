@@ -1,13 +1,10 @@
 {
-  "version": "0.21.0",
-  "date": "2026-11-08",
+  "version": "0.22.0",
+  "date": "2026-11-10",
   "notes": [
-    "Allgemeine Arbeitsmittel lassen sich anteilig auf alle selbständigen Tätigkeiten oder alle Arbeitsverhältnisse aufteilen (je Ausgabe, als Voreinstellung der Kategorie oder per Knopf für alle nicht zugeordneten)",
-    "Steuer: klarer Hinweis, wenn Werbungskosten (z. B. Fahrtkosten) unter dem Arbeitnehmer-Pauschbetrag liegen",
-    "Absetzbar: zugeklappte Kategorien bleiben zugeklappt; „Rückgängig“-Hinweis verschwindet nach wenigen Sekunden bzw. beim Seitenwechsel",
-    "Neue Tätigkeit: bei Werkstudent, Minijob & Co. nur noch Gehalt oder Stundenlohn",
-    "Einrichtungshilfe: keine doppelte Frage nach den Bereichen mehr",
-    "Demo-Modus: „Beenden“ im Streifen oben funktioniert",
-    "Bedienanleitung mit neutralen Beispieldaten"
+    "Steuer neu aufgebaut und nachvollziehbar: A selbständige Arbeit (EÜR je Tätigkeit) → B Arbeitslohn → C zu versteuerndes Einkommen → D Steuer, jede Zeile mit Erklärung",
+    "EÜR korrekt: in Rechnungen erstattete Fahrt-/Nebenkosten zählen als Einnahme, die tatsächlichen Fahrtkosten als Ausgabe",
+    "Allgemeine Arbeitsmittel als eigene Zeile „anteilig“ je Tätigkeit",
+    "Laufendes Jahr umschaltbar: „Prognose Gesamtjahr“ oder „Nur bisher erhalten“; die Prognose zeigt erhalten, offen, nicht abgerechnet und erwartet getrennt"
   ]
 }
