@@ -1,10 +1,9 @@
 {
-  "version": "0.22.0",
+  "version": "0.23.0",
   "date": "2026-11-10",
   "notes": [
-    "Steuer neu aufgebaut und nachvollziehbar: A selbständige Arbeit (EÜR je Tätigkeit) → B Arbeitslohn → C zu versteuerndes Einkommen → D Steuer, jede Zeile mit Erklärung",
-    "EÜR korrekt: in Rechnungen erstattete Fahrt-/Nebenkosten zählen als Einnahme, die tatsächlichen Fahrtkosten als Ausgabe",
-    "Allgemeine Arbeitsmittel als eigene Zeile „anteilig“ je Tätigkeit",
-    "Laufendes Jahr umschaltbar: „Prognose Gesamtjahr“ oder „Nur bisher erhalten“; die Prognose zeigt erhalten, offen, nicht abgerechnet und erwartet getrennt"
+    "Einrichtungshilfe macht die App startklar: je nach Zweck Pflichtangaben (z. B. Tätigkeit, Kategorien, Kontostand und Fixkosten, Fahrzeug), neue Schritte für Fahrzeug und Darlehen sowie eine Zusammenfassung „Das ist eingerichtet“",
+    "In jedem Schritt erklärt ein Kasten, was du tust und warum – mit kurzer Animation",
+    "Bedienanleitung neu: 23 Themen als kurze Animationen in Endlosschleife (mit erfundenen Musterdaten)"
   ]
 }
