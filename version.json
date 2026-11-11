@@ -1,13 +1,14 @@
 {
-  "version": "0.28.0",
+  "version": "0.29.0",
   "date": "2026-11-11",
   "notes": [
-    "Haushalt: neuer Reiter „Kalender“ – wann wer arbeitet (nur belegt oder mit Tätigkeit) und gemeinsame Termine mit Erinnerung",
-    "Gemeinsame Termine auf Wunsch im eigenen Handy-Kalender (nur deine, nie die Arbeitszeiten der anderen)",
-    "Neuer Reiter „Alltag“: gemeinsame Einkaufsliste – Abgehaktes mit dem Bon-Betrag als Einkauf übernehmen",
-    "Gemeinsame Einkäufe mit Kategorien (anpassbar) und Aufteilung, fließen in „Wer schuldet wem“ ein",
-    "Haushaltskasse (einschaltbar): Einzahlungen, Einkäufe aus der Kasse, Kassenstand und Rückstände",
-    "Gemeinsame Sparziele mit freien Beiträgen oder automatischer Aufteilung, „noch X € im Monat nötig“",
-    "Haushaltsbudget in der Übersicht, neue Kacheln (Budget, Termine, Einkaufsliste, Kasse) und Einrichtungshilfe-Fragen"
+    "Verträge & Versicherungen mit Laufzeit und Kündigungsfrist – privat (Ausgaben → Fixkosten) oder gemeinsam im Haushalt",
+    "Erinnerung vor Ablauf der Kündigungsfrist beim Öffnen der App, auf Wunsch auch als Termin im Kalender",
+    "Haushalt: Nebenkostenabrechnung mit Aufteilung nach Wohndauer, neue Vorauszahlung passt den Posten ab dem gewählten Monat an",
+    "Ein- und Auszug: Posten im Wechselmonat anteilig nach Tagen, Kaution je Mitglied, Schlussabrechnung",
+    "Geteiltes Fahrzeug: Kosten nach gefahrenen km (Fahrtenbuch) oder pauschal aufteilen",
+    "Monatsabschluss als PDF (Posten, Einkäufe, Kasse, Zahlungen, Salden und Überweisungen)",
+    "Einladungs- und Rückcode als QR-Code – auf dem Handy direkt scannen",
+    "Update-Download prüft die Datei vollständig, bevor das Setup startet (verhindert „beschädigt“-Meldungen)"
   ]
 }
