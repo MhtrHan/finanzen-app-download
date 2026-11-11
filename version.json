@@ -1,13 +1,13 @@
 {
-  "version": "0.27.0",
+  "version": "0.28.0",
   "date": "2026-11-11",
   "notes": [
-    "Gemeinsamer Haushalt für Paare und Familien: gemeinsame Steuer mit Vergleich „einzeln oder zusammen“",
-    "zvE des Partners kommt automatisch aus dem Haushalt (Zusammenveranlagung in der Steuerschätzung)",
-    "Voraussichtliche Erstattung bzw. Nachzahlung mit wählbarer Aufteilung zwischen den Partnern",
-    "Steuerklassen-Vergleich III/V, IV/IV und IV/IV mit Faktor (Faktor berechnet oder vom Finanzamt)",
-    "Gemeinsame absetzbare Ausgaben: Handwerker, Haushaltshilfe, Krankheitskosten, Spenden, Kinderbetreuung",
-    "Neu in der Steuerschätzung für alle: § 35a (haushaltsnahe Dienstleistungen, Handwerker) und Kinderbetreuungskosten",
-    "Kinder einzeln erfassen: Günstigerprüfung Kindergeld/Kinderfreibetrag, Pflegeversicherung, Kindergeld auf Wunsch im Budget"
+    "Haushalt: neuer Reiter „Kalender“ – wann wer arbeitet (nur belegt oder mit Tätigkeit) und gemeinsame Termine mit Erinnerung",
+    "Gemeinsame Termine auf Wunsch im eigenen Handy-Kalender (nur deine, nie die Arbeitszeiten der anderen)",
+    "Neuer Reiter „Alltag“: gemeinsame Einkaufsliste – Abgehaktes mit dem Bon-Betrag als Einkauf übernehmen",
+    "Gemeinsame Einkäufe mit Kategorien (anpassbar) und Aufteilung, fließen in „Wer schuldet wem“ ein",
+    "Haushaltskasse (einschaltbar): Einzahlungen, Einkäufe aus der Kasse, Kassenstand und Rückstände",
+    "Gemeinsame Sparziele mit freien Beiträgen oder automatischer Aufteilung, „noch X € im Monat nötig“",
+    "Haushaltsbudget in der Übersicht, neue Kacheln (Budget, Termine, Einkaufsliste, Kasse) und Einrichtungshilfe-Fragen"
   ]
 }
