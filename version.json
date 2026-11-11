@@ -1,9 +1,13 @@
 {
-  "version": "0.25.1",
-  "date": "2026-11-10",
+  "version": "0.26.0",
+  "date": "2026-11-11",
   "notes": [
-    "Bedienanleitung: alle Animationen neu – in voller Auflösung, flüssiger und ausschließlich mit erfundenen Musterdaten",
-    "„Abgleich und Sicherung“ zeigt jetzt den echten Ablauf",
-    "Text zur Steuerschätzung korrigiert (die Buchstaben richten sich nach deinen Tätigkeiten)"
+    "Neu: Gemeinsamer Haushalt – mit Partner, WG oder Familie Fixkosten teilen (Einstellungen → Haushalt)",
+    "Erstellen oder mit Einladungscode beitreten, Rückcode zur Bestätigung; Daten verschlüsselt im eigenen Google Drive",
+    "Gemeinsame Posten aufteilen: gleich, nach Einkommen, nach Prozent oder feste Beträge – mit Verlauf „geändert von …“",
+    "„Wer schuldet wem?“ mit möglichst wenigen Überweisungen, Zahlungen als bezahlt eintragen",
+    "Freigaben je Bereich (nicht teilen / nur Summen / Details, beim Einkommen auch nur Anteil in %) und einzelne Einträge privat",
+    "Dein Anteil an gemeinsamen Posten fließt in Budget und Kontostand-Vorschau ein",
+    "Einrichtungshilfe mit Schritt „Gemeinsamer Haushalt“, neue Kacheln und Bedienanleitung mit Animationen"
   ]
 }
