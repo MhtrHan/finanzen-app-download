@@ -1,13 +1,13 @@
 {
-  "version": "0.26.0",
+  "version": "0.27.0",
   "date": "2026-11-11",
   "notes": [
-    "Neu: Gemeinsamer Haushalt – mit Partner, WG oder Familie Fixkosten teilen (Einstellungen → Haushalt)",
-    "Erstellen oder mit Einladungscode beitreten, Rückcode zur Bestätigung; Daten verschlüsselt im eigenen Google Drive",
-    "Gemeinsame Posten aufteilen: gleich, nach Einkommen, nach Prozent oder feste Beträge – mit Verlauf „geändert von …“",
-    "„Wer schuldet wem?“ mit möglichst wenigen Überweisungen, Zahlungen als bezahlt eintragen",
-    "Freigaben je Bereich (nicht teilen / nur Summen / Details, beim Einkommen auch nur Anteil in %) und einzelne Einträge privat",
-    "Dein Anteil an gemeinsamen Posten fließt in Budget und Kontostand-Vorschau ein",
-    "Einrichtungshilfe mit Schritt „Gemeinsamer Haushalt“, neue Kacheln und Bedienanleitung mit Animationen"
+    "Gemeinsamer Haushalt für Paare und Familien: gemeinsame Steuer mit Vergleich „einzeln oder zusammen“",
+    "zvE des Partners kommt automatisch aus dem Haushalt (Zusammenveranlagung in der Steuerschätzung)",
+    "Voraussichtliche Erstattung bzw. Nachzahlung mit wählbarer Aufteilung zwischen den Partnern",
+    "Steuerklassen-Vergleich III/V, IV/IV und IV/IV mit Faktor (Faktor berechnet oder vom Finanzamt)",
+    "Gemeinsame absetzbare Ausgaben: Handwerker, Haushaltshilfe, Krankheitskosten, Spenden, Kinderbetreuung",
+    "Neu in der Steuerschätzung für alle: § 35a (haushaltsnahe Dienstleistungen, Handwerker) und Kinderbetreuungskosten",
+    "Kinder einzeln erfassen: Günstigerprüfung Kindergeld/Kinderfreibetrag, Pflegeversicherung, Kindergeld auf Wunsch im Budget"
   ]
 }
