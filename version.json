@@ -1,14 +1,11 @@
 {
-  "version": "0.29.0",
-  "date": "2026-11-11",
+  "version": "0.30.0",
+  "date": "2026-11-13",
   "notes": [
-    "Verträge & Versicherungen mit Laufzeit und Kündigungsfrist – privat (Ausgaben → Fixkosten) oder gemeinsam im Haushalt",
-    "Erinnerung vor Ablauf der Kündigungsfrist beim Öffnen der App, auf Wunsch auch als Termin im Kalender",
-    "Haushalt: Nebenkostenabrechnung mit Aufteilung nach Wohndauer, neue Vorauszahlung passt den Posten ab dem gewählten Monat an",
-    "Ein- und Auszug: Posten im Wechselmonat anteilig nach Tagen, Kaution je Mitglied, Schlussabrechnung",
-    "Geteiltes Fahrzeug: Kosten nach gefahrenen km (Fahrtenbuch) oder pauschal aufteilen",
-    "Monatsabschluss als PDF (Posten, Einkäufe, Kasse, Zahlungen, Salden und Überweisungen)",
-    "Einladungs- und Rückcode als QR-Code – auf dem Handy direkt scannen",
-    "Update-Download prüft die Datei vollständig, bevor das Setup startet (verhindert „beschädigt“-Meldungen)"
+    "Neue Schnittstelle zum Übersetzungsmanagement (nur für den Herausgeber, unter Einstellungen → Übersetzungsmanagement)",
+    "Rechnungen aus dem Übersetzungsmanagement werden automatisch Einnahmen der Tätigkeit „Ermächtigter Übersetzer“ – bereits vorhandene Rechnungen mit gleicher Nummer werden zugeordnet, nicht doppelt angelegt",
+    "Stornierte Rechnungen stornieren auch die Einnahme",
+    "Der Zahlungseingang wird an das Übersetzungsmanagement zurückgemeldet",
+    "Der Abgleich läuft automatisch nach jedem Google-Drive-Abgleich"
   ]
 }
